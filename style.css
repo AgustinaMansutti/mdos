@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Staatliches&display=swap');
 @font-face{font-family: Alice in Wonderland ; src: url("Alice_in_Wonderland_3.ttf")}
 
@@ -41,7 +41,7 @@ section p{color:#BF0508}
 .frame{width: 680px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family:'Staatliches', cursive ;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family:'Press Start 2P', cursive ;margin-left: 10%;color: red; font-size: 34px; text-decoration: none}
 
 .barra{float: right; 
     font-size: 23px;
@@ -125,7 +125,7 @@ section p{color:#BF0508}
 .frame{width: 680px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family:'Staatliches', cursive;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family:'Press Start 2P', cursive;margin-left: 10%;color: red; font-size: 34.5px; text-decoration: none}
 
 .barra{float: right;
     font-size: 23px;
@@ -207,7 +207,7 @@ section p{color:#BF0508}
 .frame{width: 680px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family: 'Staatliches', cursive;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family: 'Press Start 2P', cursive;margin-left: 10%;color: red; font-size: 33px; text-decoration: none}
 
 .barra{float: right;
     font-size: 23px;
@@ -287,7 +287,7 @@ section p{color:#BF0508}
 .frame{width: 680px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family: 'Staatliches', cursive;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family: 'Press Start 2P', cursive;margin-left: 10%;color: red; font-size: 32px; text-decoration: none}
 
 .barra{float: right;
     font-size: 23px;
@@ -368,7 +368,7 @@ section p{color:#BF0508}
 .frame{width: 680px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family: 'Staatliches', cursive;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family: 'Press Start 2P', cursive;margin-left: 10%;color: red; font-size: 32px; text-decoration: none}
 
 .barra{float: right;
     font-size: 23px;
@@ -448,7 +448,7 @@ section p{color:#BF0508}
 .frame{width: 650px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family: 'Staatliches', cursive;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family:'Press Start 2P', cursive;margin-left: 10%;color: red; font-size: 32px; text-decoration: none}
 
 .barra{float: right;
     font-size: 23px;
@@ -528,7 +528,7 @@ section p{color:#BF0508}
 .frame{width: 550px;height: 400px}
 .foto1{width: 80px;filter:brightness(1.1); 
 	mix-blend-mode: multiply}
-.titulo{font-family: 'Staatliches', cursive;margin-left: 10%;color: red; font-size: 51px; text-decoration: none}
+.titulo{font-family: 'Press Start 2P', cursive;margin-left: 10%;color: red; font-size: 30px; text-decoration: none}
 
 .barra{float: right;
     font-size: 23px;
